@@ -1,0 +1,12 @@
+﻿  main.cpp
+D:\Study\leetcode\4\project\project\class.h(13,25): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\Study\leetcode\4\project\project\class.h(35,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\leetcode\4\project\project\class.h(37,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\leetcode\4\project\project\class.h(37,49): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\leetcode\4\project\project\class.h(48,29): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\Study\leetcode\4\project\project\class.h(48,55): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\leetcode\4\project\project\class.h(52,29): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\Study\leetcode\4\project\project\class.h(52,55): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\leetcode\4\project\project\class.h(60,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\leetcode\4\project\project\class.h(84,52): warning C4018: <: несоответствие типов со знаком и без знака
+  project.vcxproj -> D:\Study\leetcode\4\project\Debug\project.exe

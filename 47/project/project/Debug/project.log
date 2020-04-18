@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\Study\leetcode\47\project\project\class.h(13,53): warning C4018: >=: несоответствие типов со знаком и без знака
+D:\Study\leetcode\47\project\project\class.h(16,35): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\leetcode\47\project\project\class.h(29,27): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\leetcode\47\project\project\class.h(32,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\leetcode\47\project\project\class.h(55,31): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\leetcode\47\project\project\main.cpp(16,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\leetcode\47\project\project\main.cpp(18,21): warning C4018: <: несоответствие типов со знаком и без знака
+  project.vcxproj -> D:\Study\leetcode\47\project\Debug\project.exe
